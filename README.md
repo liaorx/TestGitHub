@@ -1,8 +1,8 @@
 # TestGitHub
     This is the test repo for github
-** test bold **
-** test bold
-    * test 斜体 *
+    ** test bold **
+    ** test bold
+    *test italic*
     ~~ 测试删除线 ~~
     > 测试引用
     ***
