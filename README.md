@@ -1,12 +1,14 @@
 # TestGitHub
     This is the test repo for github
-    ** test bold **
-    ** test bold
+** test bold **
+** test bold
     * test 斜体 *
     ~~ 测试删除线 ~~
     > 测试引用
     ***
 # 一级标题
 ## 二级标题
-    1.列表1
-    2.列表2
+    1. 列表1
+    2. 列表2
+
+|:table1:|:table2:|
